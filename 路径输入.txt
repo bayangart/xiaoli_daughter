@@ -1,0 +1,12 @@
+第一版输入：
+
+跑这个软件是PC版
+H:
+cd "xiaoli_daughter"
+python xiaoli_daughter.py
+
+#跑下面这个软件是网页版
+streamlit run app.py
+
+
+
