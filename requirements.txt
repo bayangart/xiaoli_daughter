@@ -1,7 +1,5 @@
-
 streamlit
-requests
+pygame
 baidu-aip
 speechrecognition
-pygame
-gunicorn
+pyaudio
